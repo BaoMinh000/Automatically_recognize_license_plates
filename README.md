@@ -4,4 +4,5 @@
 	Step 3: You can use it normally
  
 "license_plate_recognition_model (1).h5" this is a model trained to recognize license plates in a photo
+
 Note: The project is created during the learning process.

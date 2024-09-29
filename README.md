@@ -1,7 +1,7 @@
 # Automatically identify numbers
 	Step 1: Download the zip file
 	Step 2: Turn on and run the main2.py file (I use pycharm to run)
-	Step 3: You can use it normally
+	Step 3: Point the camera at the license plate
  
 "license_plate_recognition_model (1).h5" this is a model trained to recognize license plates in a photo
 
